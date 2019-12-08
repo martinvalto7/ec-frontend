@@ -1,0 +1,14 @@
+.product-info{
+    display: inline-block;
+    width: 15%;
+}
+.product-description{
+    display: inline-block;
+    width: 85%;
+}
+.product-container{
+    margin-bottom: 15px;
+}
+.prodct-buy{
+    float: right;
+}
